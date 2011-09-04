@@ -1,4 +1,4 @@
-SixArm.com » Debian » Sqlite3 database and related packages
+SixArm.com » Debian » Math related packages for numeric computing and plotting
 
 To add our repositority to your sources:
 
@@ -11,7 +11,7 @@ Add this line:
 To install:
 
    apt-get update
-   apt-get install sixarm-debian-sqlite3-packages
+   apt-get install sixarm-debian-math-packages
 
 To contact us with your questions, comments, and suggestions:
 
