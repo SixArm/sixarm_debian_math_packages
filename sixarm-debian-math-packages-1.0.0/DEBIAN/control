@@ -1,0 +1,10 @@
+Package: sixarm-debian-math-packages
+Version: 1.0.0
+Section: devel
+Priority: optional
+Architecture: all
+Depends: gnuplot, gnuplot-doc, gnuplot-mode, gsl-bin, gsl-ref-html, libgnuplot-ruby, libgsl-ruby, libgsl-ruby-doc, libgsl0-dev, libgsl0ldbl, libplot-dev, plotutils
+Maintainer: Joel Parker Henderson <joel@sixarm.com>
+Description: Math packages we like to use
+ Math packages we like to use together.
+
