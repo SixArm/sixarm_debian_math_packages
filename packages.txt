@@ -1,0 +1,46 @@
+build-essential
+
+# GNUplut
+gnuplot
+gnuplot-doc
+gnuplot-mode
+
+# R statistics
+r-base
+r-base-core
+r-base-html
+r-cran-boot
+r-cran-class
+r-cran-cluster
+r-cran-codetools
+r-cran-foreign
+r-cran-kernsmooth
+r-cran-lattice
+r-cran-mass
+r-cran-matrix
+r-cran-mgcv
+r-cran-msm
+r-cran-nlme
+r-cran-nnet
+r-cran-rcmdr
+r-cran-rodbc
+r-cran-rodbc
+r-cran-robustbase
+r-cran-rpart
+r-cran-spatial
+r-cran-survival
+
+# Misc
+gsl-bin
+gsl-ref-html
+libgnuplot-ruby
+libgsl-ruby
+libgsl-ruby-doc
+libgsl0-dev
+libgsl0ldbl
+libplot-dev
+plotutils
+littler
+python-rpy
+python-rpy-doc
+ess
